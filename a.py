@@ -35,7 +35,6 @@ import requests
 import random
 import string
 import sys
-import pcpy
 import time
 import os
 import urllib.request
